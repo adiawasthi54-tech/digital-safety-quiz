@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What should you do if you receive an email asking for your bank details?",
+    "options": ["Reply with details", "Ignore it", "Click the link", "Forward to friends"],
+    "answer": "Ignore it"
+  },
+  {
+    "question": "Which password is safest?",
+    "options": ["123456", "Adi@2025!", "password", "myname"],
+    "answer": "Adi@2025!"
+  },
+  {
+    "question": "What does OTP stand for?",
+    "options": ["Online Transfer Protocol", "One-Time Password", "Open Tech Policy", "Only Trusted People"],
+    "answer": "One-Time Password"
+  },
+  {
+    "question": "Is it safe to click on pop-ups that say 'You’ve won a prize'?",
+    "options": ["Yes", "No", "Only if it looks real", "Sometimes"],
+    "answer": "No"
+  },
+  {
+    "question": "What should you do before downloading a new app?",
+    "options": ["Check reviews and permissions", "Download immediately", "Ignore warnings", "Ask a stranger"],
+    "answer": "Check reviews and permissions"
+  },
+  {
+    "question": "Which of these is a secure way to connect to the internet?",
+    "options": ["Public Wi-Fi without password", "Private home Wi-Fi", "Any free hotspot", "Neighbor’s Wi-Fi"],
+    "answer": "Private home Wi-Fi"
+  },
+  {
+    "question": "What is phishing?",
+    "options": ["Fishing game", "Fake attempt to steal information", "Virus", "Online shopping"],
+    "answer": "Fake attempt to steal information"
+  },
+  {
+    "question": "How often should you update your phone apps?",
+    "options": ["Never", "Only when forced", "Regularly", "Once a year"],
+    "answer": "Regularly"
+  },
+  {
+    "question": "Which of these is a good digital habit?",
+    "options": ["Using same password everywhere", "Ignoring updates", "Checking sender before clicking links", "Sharing OTP with family"],
+    "answer": "Checking sender before clicking links"
+  },
+  {
+    "question": "What is a strong password made of?",
+    "options": ["Only letters", "Your name", "Letters, numbers, symbols", "Your birthdate"],
+    "answer": "Letters, numbers, symbols"
+  },
+  {
+    "question": "What should you do if you receive a suspicious call asking for money?",
+    "options": ["Send money", "Hang up and report", "Ask for details", "Call back later"],
+    "answer": "Hang up and report"
+  },
+  {
+    "question": "What is two-factor authentication?",
+    "options": ["Two passwords", "Password plus extra verification", "Double login", "Fingerprint only"],
+    "answer": "Password plus extra verification"
+  },
+  {
+    "question": "Which app is commonly used for secure messaging?",
+    "options": ["WhatsApp", "Calculator", "Camera", "Gallery"],
+    "answer": "WhatsApp"
+  },
+  {
+    "question": "What should you do before clicking a link in a message?",
+    "options": ["Click quickly", "Check if it’s from a trusted source", "Forward it", "Ignore sender"],
+    "answer": "Check if it’s from a trusted source"
+  },
+  {
+    "question": "What is the safest way to pay online?",
+    "options": ["Share card details on call", "Use secure UPI or trusted apps", "Send money via email", "Use unknown websites"],
+    "answer": "Use secure UPI or trusted apps"
+  },
+  {
+    "question": "What does antivirus software do?",
+    "options": ["Plays music", "Protects against malware", "Slows down phone", "Deletes photos"],
+    "answer": "Protects against malware"
+  },
+  {
+    "question": "Why should you avoid using public Wi-Fi for banking?",
+    "options": ["It’s slow", "It’s unsafe and can be hacked", "It’s expensive", "It’s noisy"],
+    "answer": "It’s unsafe and can be hacked"
+  },
+  {
+    "question": "What is a scam call?",
+    "options": ["Call from a friend", "Call asking for money or personal info", "Missed call", "Call from your bank"],
+    "answer": "Call asking for money or personal info"
+  },
+  {
+    "question": "What should you do if your phone behaves strangely after clicking a link?",
+    "options": ["Ignore it", "Restart and scan for viruses", "Tell no one", "Keep clicking"],
+    "answer": "Restart and scan for viruses"
+  },
+  {
+    "question": "Why is it important to log out of accounts after use?",
+    "options": ["To save battery", "To avoid unauthorized access", "To delete data", "To make phone faster"],
+    "answer": "To avoid unauthorized access"
+  }
+]
